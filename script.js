@@ -10,4 +10,3 @@ function getDomLevel(element){
 }
 const domLevel= getDomLevel(targetLevel);
 alert(`The level of element is : ${domLevel}`);
-}
