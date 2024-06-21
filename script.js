@@ -8,5 +8,5 @@ function getDomLevel(element){
 	}
 	return level;
 }
-const domLevel= getDomLevel(targetLevel);
+const domLevel= getDomLevel(torgetlevel);
 alert(`The level of element is : ${domLevel}`);
